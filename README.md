@@ -1,5 +1,5 @@
 Hello World 
-=========== Nicholas Scott
+=========== 
 
 This repository will allow you to build your first professional Java
 project, including unit and acceptance tests, using Gradle as the
@@ -30,3 +30,4 @@ executable by saying
 
 before running it the first time.
 
+Nicholas Scott
